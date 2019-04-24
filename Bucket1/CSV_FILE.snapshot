@@ -490,8 +490,8 @@
     "name" : "Test",
     "outputPorts" : [ ],
     "position" : {
-      "x" : 209.0,
-      "y" : -295.0
+      "x" : 188.0,
+      "y" : -420.0
     },
     "processGroups" : [ ],
     "processors" : [ {
@@ -518,7 +518,7 @@
         "Keep Source File" : "false",
         "Minimum File Age" : "0 sec",
         "Polling Interval" : "0 sec",
-        "Input Directory" : "/Users/andrewmlim/HCC/RecordReaderWriter/in/",
+        "Input Directory" : "/Users/andrewmlim/HCCg/RecordReaderWriter/in/",
         "Batch Size" : "10",
         "Minimum File Size" : "0 B",
         "Ignore Hidden Files" : "true",
